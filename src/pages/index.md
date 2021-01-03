@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: CodPlay
     content: This text could definitely be better what do you say.
     actions:
       - label: Learn More
