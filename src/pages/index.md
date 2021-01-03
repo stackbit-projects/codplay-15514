@@ -6,7 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: CodPlay
-    content: This text could definitely be better what do you say.
+    content: Upload your best plays
     actions:
       - label: Learn More
         url: /features
