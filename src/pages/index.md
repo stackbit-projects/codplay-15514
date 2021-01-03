@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/main.png
     image_alt: App preview
-    title: CodPlay
+    title: CodPlays
     content: Upload your best plays
     actions:
       - label: Learn More
